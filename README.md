@@ -1,1 +1,1 @@
-# Audio-Event-Detection
+# Audio-Event-Classification
